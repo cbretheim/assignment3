@@ -1,0 +1,50 @@
+body {
+  background-image: linear-gradient(red, white, blue);
+  font-family: 'Lato', sans-serif;
+  display: flex;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.header {
+  flex: 30%;
+}
+
+h1 {
+  text-align: center;
+  margin: 1em 0.5em;
+  color: white;
+  font-size: 3em;
+}
+
+.main {
+  flex: 70%;
+  float: right;
+}
+
+.flashcards {
+  display: flex;
+}
+
+.two-col {
+  flex: 50%;
+  border: 1px solid #afafaf;
+  padding: 0.5em;
+  height: 15em;
+  margin: 1em;
+  background: white;
+}
+
+.two-col:hover {
+  background-color: blue;
+  color: white;
+}

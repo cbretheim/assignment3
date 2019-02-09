@@ -1,0 +1,17 @@
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+      <title>State Capitals</title>
+  </head>
+  <body>
+  <h1>Name that Capital</h1>
+  Alabama - Montgomery
+  Alaska - Juneau
+  Arizona - Phoenix
+  Arkansas - Little Rock
+  California - Sacramento
+  Colorado - Denver
+  </body>
+  <script>
+  </script>
+</html>
